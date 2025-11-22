@@ -92,7 +92,7 @@ Complete CRUD functionality with validation, LINQ & SQL database.
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/muhammad-jumshaid">
+  <a href="https://www.linkedin.com/in/muhammad-jumshaid-b97229318/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
   </a>
 </p>
@@ -102,7 +102,7 @@ Complete CRUD functionality with validation, LINQ & SQL database.
 <div align="center">
   
 ### 👀 Profile Visitors  
-<img src="https://komarev.com/ghpvc/?username=MuhammadJumshaid&style=for-the-badge&color=1a1b27" />
+![Profile Views](https://komarev.com/ghpvc/?username=MuhammadJumshaid&style=for-the-badge&color=1a1b27)
 
 </div>
 
